@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 const connection = mongoose.connect('',{
-    dbName: "passport",
+    dbName: "",
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
