@@ -6,7 +6,7 @@ Authentication,register and login operations with Passportjs. Inspired by the Yo
 
 ## Important Info:
 ### type "npm install" in terminal before use. 
-###do "npm run dev" for use
+### do "npm run dev" for use
 
 
 
