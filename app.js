@@ -68,6 +68,6 @@ app.use('/users', users);
 
 // Server setups
 
-const PORT = process.env.port || 5000;
+const PORT = 5000;
 
 app.listen(PORT, console.log(`Server started on port ${PORT}`));
