@@ -11,9 +11,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "engines": {
-    "node": "12.18.3"
-  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
